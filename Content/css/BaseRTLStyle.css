@@ -1,44 +1,23 @@
 @font-face {
-    font-family: 'Yekan';
-    font-style: normal;
-    font-weight: normal;
-    src: url('../css/Font/Yekan/Yekan.eot');
-    src: url('../css/Font/Yekan/Yekan.eot') format('embedded-opentype'),
-        url('../css/Font/Yekan/Yekan.woff') format('woff'),
-        url('../css/Font/Yekan/Yekan.ttf') format('ttf');
-}
-
-@font-face {
-    font-family: roboto regular;
+    font-family: 'roboto regular';
     font-style: normal;
     font-weight: 400;
     src: local('Roboto Regular'), local('Roboto-Regular'),
-        url('../css/Font/roboto-regular_930678068cb1bea8d60f8083f9dab81d.ttf') format('woff'),
-        url('../css/Font/roboto-regular_930678068cb1bea8d60f8083f9dab81d.woff') format('truetype')
+        url('roboto-regular_930678068cb1bea8d60f8083f9dab81d.ttf') format('woff'),
+        url('roboto-regular_930678068cb1bea8d60f8083f9dab81d.woff') format('truetype')
 }
 
 @font-face {
     font-family: 'iran-sans';
-    src: url(fonts/iran-sans/iran-sans.eot) format('embedded-opentype'),
-        url(fonts/iran-sans/iran-sans.ttf) format('truetype'),
-        url(fonts/iran-sans/iran-sans.woff) format('woff');
-}
-
-@font-face {
-    font-family: 'Chandelle Display';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Chandelle Display'), url(Font/ChandelleDisplayDemo.woff) format('woff');
+    src: url('iran-sans.eot') format('embedded-opentype'),
+        url('iran-sans.ttf') format('truetype'),
+        url('iran-sans.woff') format('woff');
 }
 
 body {
     font-family: 'iran-sans';
     font-size: 15px;
     direction: rtl;
-}
-
-.YekanFont {
-    font-family: 'Yekan' !important;
 }
 
 .RobotoFont {
