@@ -1,5 +1,5 @@
 .slider_sec {
-    background-image: url(../Img/3.jpg);
+    background-image: url(../img/3.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -818,14 +818,14 @@ a.logo {
 
 @media(min-width:992px) {
     .about_sec {
-        /* background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(../Img/footer-bg.png); */
+        /* background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(../img/footer-bg.png); */
         background-size: cover;
         background-repeat: no-repeat;
         padding: 5% 0 10%;
         background-color: #16215c;
         color: #fff;
         position: relative;
-        background: url(../Img/ill22.png);
+        background: url(../img/ill22.png);
         background-size: cover;
         background-position: center;
     }
@@ -1523,7 +1523,7 @@ footer {
     padding-top: 150px;
     color: #fff;
     position: relative;
-    background: url(../Img/wave5.svg) no-repeat;
+    background: url(../img/wave5.svg) no-repeat;
     background-size: cover;
     background-position: center;
     background-color: #f9f8ff;
@@ -1749,7 +1749,7 @@ footer .logo_ftl img {
 /* /////////////////////////////BreadCrumbs/////////////////////////// */
 
 .brdcrmb {
-    background: url(../Img/brdcrmbs.jpg) center fixed;
+    background: url(../img/brdcrmbs.jpg) center fixed;
     background-size: cover;
 }
 
@@ -2134,7 +2134,7 @@ footer .logo_ftl img {
     #myhome {
         width: 100%;
         overflow: hidden;
-        background: url(../Img/background.jpg);
+        background: url(../img/background.jpg);
         background-attachment: fixed;
         background-size: cover;
         height: 100vh;
@@ -2189,7 +2189,7 @@ footer .logo_ftl img {
 .mdk_shr:after {
     position: absolute;
     content: '';
-    background: url(../Img/wavephone.svg);
+    background: url(../img/wavephone.svg);
     background-repeat: repeat;
     top: 100%;
     left: 0;
@@ -2310,7 +2310,7 @@ div#services {
 #eff_hvr:before {
     position: absolute;
     content: '';
-    background: url(../Img/wavetp.svg) repeat;
+    background: url(../img/wavetp.svg) repeat;
     background-size: cover;
     width: 100%;
     height: 40vh;
@@ -2323,7 +2323,7 @@ div#services {
 #eff_hvr:after {
     position: absolute;
     content: '';
-    background: url(../Img/waveabout.svg) repeat;
+    background: url(../img/waveabout.svg) repeat;
     background-size: cover;
     width: 100%;
     height: 40vh;
@@ -2670,7 +2670,7 @@ li:nth-child(11).layer img {
 #bg_adv:after {
     position: absolute;
     content: '';
-    background: url(../Img/wavephone.svg);
+    background: url(../img/wavephone.svg);
     background-repeat: repeat;
     top: 100%;
     left: 0;
@@ -2972,40 +2972,40 @@ li:nth-child(11).layer img {
 }
 
 #keyart-0 {
-    background-image: url(../Img/parallax0.png);
+    background-image: url(../img/parallax0.png);
     background-color: #ffaf1b;
 }
 
 #keyart-1 {
-    background-image: url(../Img/parallax1.png);
+    background-image: url(../img/parallax1.png);
 }
 
 #keyart-2 {
-    background-image: url(../Img/parallax2.png);
+    background-image: url(../img/parallax2.png);
 }
 
 #keyart-3 {
-    background-image: url(../Img/parallax3.png);
+    background-image: url(../img/parallax3.png);
 }
 
 #keyart-4 {
-    background-image: url(../Img/parallax4.png);
+    background-image: url(../img/parallax4.png);
 }
 
 #keyart-5 {
-    background-image: url(../Img/parallax5.png);
+    background-image: url(../img/parallax5.png);
 }
 
 #keyart-6 {
-    background-image: url(../Img/parallax6.png);
+    background-image: url(../img/parallax6.png);
 }
 
 #keyart-7 {
-    background-image: url(../Img/parallax7.png);
+    background-image: url(../img/parallax7.png);
 }
 
 #keyart-8 {
-    background-image: url(../Img/parallax8.png);
+    background-image: url(../img/parallax8.png);
 }
 
 #keyart-scrim {
@@ -3016,32 +3016,32 @@ li:nth-child(11).layer img {
 @media (-webkit-min-device-pixel-ratio: 1.5),
 (min-resolution: 144dpi) {
     #keyart-0 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
         background-color: #ffaf1b;
     }
     #keyart-1 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
     #keyart-2 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
     #keyart-3 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
     #keyart-4 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
     #keyart-5 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
     #keyart-6 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
     #keyart-7 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
     #keyart-8 {
-        background-image: url(../Img/parallax0.png);
+        background-image: url(../img/parallax0.png);
     }
 }
 
