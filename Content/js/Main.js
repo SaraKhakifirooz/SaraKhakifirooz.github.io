@@ -10,6 +10,10 @@ $(document).ready(function() {
         $(this).parent('li').toggleClass('cc');
     });
 
+    $('.content_mbl').click(function () {
+        $('.menu-bar').addClass('right500');
+        $('.menu-bar').removeClass('right0');
+    });
 
     $(".menu-bar a").click(function() {
         $(".menu-bar").toggleClass("right0 right500");
